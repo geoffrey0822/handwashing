@@ -1,0 +1,1 @@
+python handwash_game3.py googlenet\snapshot_iter_9210.caffemodel googlenet\deploy.prototxt 1

@@ -1,0 +1,1 @@
+python handwash_game3.py edge4\snapshot_iter_2160.caffemodel edge4\deploy.prototxt

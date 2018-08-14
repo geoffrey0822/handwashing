@@ -1,0 +1,1 @@
+python handwash_game_v.py alexnet\snapshot_iter_750.caffemodel alexnet\deploy.prototxt 2
