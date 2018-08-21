@@ -12,6 +12,14 @@ ___
 
 *Supported Python Version: 2.7, 3.5*
 
+*How to enable/disable reforcement: Uncomment/comment line #1834 in handwash_game_v2.py*
+*How to enable capturing sample in background: add corresponded codes to line #1612 as shown as below*
+
+```python
+tsstr=str(int(time.time()))
+file_path=os.path.join('cached','%s/%s.jpg'%(class_sidx,tsstr))
+```
+
 ___
 ## 4. Publications
 ___
